@@ -1,10 +1,10 @@
 ﻿Console.WriteLine("Pressione qualquer tecla para começar...");
-        Console.ReadKey(true); // espera uma tecla
+        Console.ReadKey(true);
 
         Console.WriteLine("Preparar...");
-        Console.ReadKey(true); // espera uma tecla
+        Console.ReadKey(true); 
 
         Console.WriteLine("Apontar...");
-        Console.ReadKey(true); // espera uma tecla
+        Console.ReadKey(true); 
 
         Console.WriteLine("FOGO!");
